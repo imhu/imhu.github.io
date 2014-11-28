@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://imhu.github.io/sitemap.xml 
