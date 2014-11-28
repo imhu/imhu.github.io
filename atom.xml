@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[imhu's Blog]]></title>
+  <title><![CDATA[Imhu's Blog]]></title>
   <link href="http://imhu.github.io/atom.xml" rel="self"/>
   <link href="http://imhu.github.io/"/>
-  <updated>2014-11-28T22:48:40+08:00</updated>
+  <updated>2014-11-28T22:52:52+08:00</updated>
   <id>http://imhu.github.io/</id>
   <author>
     <name><![CDATA[imhu]]></name>
